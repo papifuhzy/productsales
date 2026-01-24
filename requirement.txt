@@ -1,6 +1,6 @@
 streamlit
-pandas
-matplotlib
-numpy
-plotly
 streamlit-option-menu
+pandas
+numpy
+matplotlib
+plotly
