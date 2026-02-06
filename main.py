@@ -56,7 +56,6 @@ with st.sidebar:
             "Regional & Provincial Profit Analysis",
             "Top 10 Most Profitable Products",
             "Category Popularity Across Regions",
-            "Top Customers by Revenue Contribution",
             "Revenue Trend: 2023 vs 2024"
         ],
         default_index=0
@@ -436,4 +435,5 @@ elif selected == "Revenue Trend: 2023 vs 2024":
         "Insight: Pie chart menunjukkan kontribusi masing-masing kategori "
         "terhadap total revenue pada tahun 2023 dan 2024. "
         "Perubahan proporsi mengindikasikan pergeseran kontribusi kategori."
+
     )
